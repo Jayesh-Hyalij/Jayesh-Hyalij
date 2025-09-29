@@ -3,11 +3,7 @@
 
 - 🏢 @ [Stoic and Salamander Global Corporation.](https://stoicsalamander.com)
 
-- 🌱 I’m currently learning **DevOps**
-
 - 👨‍💻 Passionate about Building Scalable Cloud Infrastructure & [DevOps](https://github.com/Jayesh-Hyalij/Learn-DevOps.git)
-
-- 🤝 I’m currently work on [Terraform](https://github.com/Jayesh-Hyalij/Learn-DevOps.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jayesh-Hyalij](https://github.com/Jayesh-Hyalij)
 
