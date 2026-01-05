@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayesh Hyalij</h1>
 <h3 align="center">I’m currently working as an AWS Developer.</h3>
 
-- 🏢 @ [Stoic and Salamander Global Corporation.](https://stoicsalamander.com)
-
 - 👨‍💻 Passionate about Building Scalable Cloud Infrastructure & [DevOps](https://github.com/Jayesh-Hyalij/Learn-DevOps.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jayesh-Hyalij](https://github.com/Jayesh-Hyalij)
